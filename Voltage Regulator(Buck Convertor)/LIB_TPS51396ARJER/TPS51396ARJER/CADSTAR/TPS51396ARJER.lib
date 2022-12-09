@@ -1,0 +1,16 @@
+.TPS51396ARJER :1 ;Buck Switching Regulator IC Positive Adjustable 0.6V 1 Output 8A 20-VFQFN Exposed Pad
+TPS51396ARJER
+*STM IC
+*NGS
+*PLB 1="BST" 2="VIN_1" 3="VIN_2" 4="VIN_3" 5="VIN_4" 6="SW_1" 7="GND_1" 8="GND_2" 9="PGOOD" 10="NC_1" 11="SS" 12="EN" 13="AGND" 14="FB" 15="MODE" 16="NC_2" 17="VCC" 18="GND_3" 19="SW_2" 20="SW_3" 21="GND_4"
+*MXP 21
+*DFN TPS51396ARJER
+~!Mouser Part Number (595-TPS51396ARJER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS51396ARJER?qs=GBLSl2AkirtKr8QWcQ0Vig%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS51396ARJER)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps51396a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1662566370253&ref_url=https%253A%252F%252Fwww.mouser.in%252F)
+~!Height (1mm)
+~!3D_Model (TPS51396ARJER)
+TPS51396ARJER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 

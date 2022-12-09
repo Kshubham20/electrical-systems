@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS51396ARJER"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-08-10:18:06)
+    (mountForm default
+        (footprintRef "TPS51396ARJER")
+        (spec "System")
+    )
+)

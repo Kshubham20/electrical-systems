@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS51396ARJER'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS51396ARJER" (!) = "", "TPS51396ARJER", "Other", "595-TPS51396ARJER", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS51396ARJER?qs=GBLSl2AkirtKr8QWcQ0Vig%3D%3D", "Buck Switching Regulator IC Positive Adjustable 0.6V 1 Output 8A 20-VFQFN Exposed Pad", "https://www.ti.com/lit/ds/symlink/tps51396a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1662566370253&ref_url=https%253A%252F%252Fwww.mouser.in%252F", "1 mm"
+END_PART
+
+END.

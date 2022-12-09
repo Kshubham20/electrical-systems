@@ -1,0 +1,252 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TPS51396ARJER"
+   (description "Buck Switching Regulator IC Positive Adjustable 0.6V 1 Output 8A 20-VFQFN Exposed Pad")
+   (family "ANA")
+   (package "TPS51396ARJER")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tps51396a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1662566370253&ref_url=https%253A%252F%252Fwww.mouser.in%252F")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "595-TPS51396ARJER")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS51396ARJER?qs=GBLSl2AkirtKr8QWcQ0Vig%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TPS51396ARJER")
+   (gate
+    (symbol "TPS51396ARJER")
+    (pin "BST" 1 PS)
+    (pin "VIN_1" 2 PS)
+    (pin "VIN_2" 3 PS)
+    (pin "VIN_3" 4 PS)
+    (pin "VIN_4" 5 PS)
+    (pin "SW_1" 6 PS)
+    (pin "GND_1" 7 PS)
+    (pin "GND_2" 8 PS)
+    (pin "PGOOD" 9 PS)
+    (pin "NC_1" 10 PS)
+    (pin "SS" 11 PS)
+    (pin "EN" 12 PS)
+    (pin "AGND" 13 PS)
+    (pin "FB" 14 PS)
+    (pin "MODE" 15 PS)
+    (pin "NC_2" 16 PS)
+    (pin "VCC" 17 PS)
+    (pin "GND_3" 18 PS)
+    (pin "SW_2" 19 PS)
+    (pin "SW_3" 20 PS)
+    (pin "GND_4" 21 PS)
+   )
+  )
+  (symbol "TPS51396ARJER"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -1100) (pt 200 -1100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -900) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -1000) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -900) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TPS51396ARJER"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 1.5)
+      (pt 1.5 1.5)
+      (pt 1.5 -1.5)
+      (pt -1.5 -1.5)
+      (pt -1.5 1.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.7 2.7)
+      (pt 2.7 2.7)
+      (pt 2.7 -2.7)
+      (pt -2.7 -2.7)
+      (pt -2.7 2.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.15 0.9)
+      (arc (pt -2.150 0.900) (pt -2.250 0.850) (pt -2.150 0.950) (start 180.0) (sweep .0))
+      (pt -2.25 0.9)
+      (arc (pt -2.250 0.900) (pt -2.250 0.850) (pt -2.150 0.950) (start 180.0) (sweep 180.0))
+      (pt -2.15 0.9))))
+   (leg 1 (pt -1.400 0.900) (padstack 0))
+   (leg 2 (pt -1.400 0.450) (padstack 0))
+   (leg 3 (pt -1.400 0.000) (padstack 0))
+   (leg 4 (pt -1.400 -0.450) (padstack 0))
+   (leg 5 (pt -1.400 -0.900) (padstack 0))
+   (leg 6 (pt -0.900 -1.400) (padstack 6))
+   (leg 7 (pt -0.450 -1.400) (padstack 7))
+   (leg 8 (pt 0.000 -1.400) (padstack 8))
+   (leg 9 (pt 0.450 -1.400) (padstack 9))
+   (leg 10 (pt 0.900 -1.400) (padstack 10))
+   (leg 11 (pt 1.400 -0.900) (padstack 0))
+   (leg 12 (pt 1.400 -0.450) (padstack 0))
+   (leg 13 (pt 1.400 0.000) (padstack 0))
+   (leg 14 (pt 1.400 0.450) (padstack 0))
+   (leg 15 (pt 1.400 0.900) (padstack 0))
+   (leg 16 (pt 0.900 1.400) (padstack 16))
+   (leg 17 (pt 0.450 1.400) (padstack 17))
+   (leg 18 (pt 0.000 1.400) (padstack 18))
+   (leg 19 (pt -0.450 1.400) (padstack 19))
+   (leg 20 (pt -0.900 1.400) (padstack 20))
+   (leg 21 (pt -0.060 -0.018) (padstack 21))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 0.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 16
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 17
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 18
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 19
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 20
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 90.000))
+   )
+   (padstack 21
+    (plated false)
+    (pad (layer TCOP) (rectf 0.675 0.760 0 0 90.000))
+   )
+   (model "TPS51396ARJER.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
